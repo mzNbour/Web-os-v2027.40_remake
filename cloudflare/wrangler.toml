@@ -1,0 +1,16 @@
+name = "wetalks-backend"
+main = "worker.js"
+compatibility_date = "2024-09-01"
+
+# Cloudflare D1 Database binding
+# Create with: npx wrangler d1 create wetalks-db
+# Then replace database_id with your own D1 database ID.
+[[d1_databases]]
+binding = "DB"
+database_name = "wetalks-db"
+database_id = "YOUR_CLOUDFLARE_D1_DATABASE_ID"
+
+# (Optional) Cloudflare KV Namespace binding
+# [[kv_namespaces]]
+# binding = "WETALKS_KV"
+# id = "YOUR_KV_NAMESPACE_ID"

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bc-1795265118709-ttma",
+    "sender": "システム管理者",
+    "title": "緊急メンテナンスのお知らせ.docx",
+    "text": "<h1 style=\"color: #185abd; font-family: sans-serif; border-bottom: 2px solid #185abd; padding-bottom: 8px;\">管理者からの重要指示書</h1>\n<p style=\"font-family: sans-serif; font-size: 14px; color: #333333; margin-top: 15px; line-height: 1.6;\">\n  本状はシステム管理者によってすべての一般端末へ向けて配信された公式文書です。\n</p>\n<p style=\"font-family: sans-serif; font-size: 14px; color: #333333; line-height: 1.6; background-color: #f3f6fc; padding: 12px; border-left: 4px solid #185abd; margin: 15px 0;\">\n  <strong>【連絡内容】</strong><br />\n  基幹データベースサーバーの移行作業のため、本日18:00より全システムへのアクセスが一時的に制限されます。<br />\n  作成中のファイルがある場合は、必ず速やかにローカルまたはクラウドへ保存を完了させてください。\n</p>\n<p style=\"font-family: sans-serif; font-size: 14px; color: #333333; line-height: 1.6;\">\n  ご不便をおかけいたしますが、システムの安定稼働のためご協力をお願い申し上げます。\n</p>\n<p style=\"font-family: sans-serif; font-size: 12px; color: #666666; margin-top: 30px; text-align: right; border-top: 1px dashed #dddddd; padding-top: 10px;\">\n  配信日時: 2026/11/21 21:44:11<br />\n  署名: セキュリティ統括本部 システム運用管理部門\n</p>",
+    "timestamp": "2026-11-21T12:45:18.709Z"
+  },
+  {
+    "id": "bc-1795265191526-z807",
+    "sender": "システム管理者",
+    "title": "Test message.docx",
+    "text": "<!DOCTYPE html>\n<html lang=\"ja\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Test Message</title>\n  <style>\n    body {\n      font-family: sans-serif;\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      height: 100vh;\n      margin: 0;\n      background-color: #f4f4f9;\n    }\n    .message-box {\n      padding: 24px 32px;\n      background-color: #ffffff;\n      border-left: 5px solid #007bff;\n      border-radius: 4px;\n      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);\n    }\n    h1 {\n      margin: 0 0 8px 0;\n      font-size: 20px;\n      color: #333333;\n    }\n    p {\n      margin: 0;\n      font-size: 15px;\n      color: #666666;\n    }\n  </style>\n</head>\n<body>\n  <div class=\"message-box\">\n    <h1>Test Message</h1>\n    <p>これはテストメッセージです。表示やレイアウトの確認用にご利用ください。</p>\n  </div>\n</body>\n</html>\n",
+    "timestamp": "2026-11-21T12:46:31.526Z"
+  }
+]
